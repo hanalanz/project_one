@@ -1,0 +1,77 @@
+h3,p{
+	font-family: 'EB Garamond', serif;
+}
+
+h3{
+	line-height: 50%;	
+}
+
+
+
+.triangle-left {
+      width: 0;
+      height: 0;
+      margin-top: 2px;
+      border-top: 5px solid transparent;
+      border-right: 10px solid black;
+      border-bottom: 5px solid transparent;
+    }
+
+
+
+.all{
+	display: flex;
+	justify-content: space-around;
+}
+
+.row1 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.row2 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.row3 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.row4 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.row5 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.row6 {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.lines{
+	width: 250px;
+	height: 3px;
+	background-color: black;
+
+}
+
+.eneya{
+	text-align: center;
+}
+
+.hana{
+	text-align: center;
+}

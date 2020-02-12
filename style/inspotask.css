@@ -1,0 +1,37 @@
+img{
+	width: 50%;
+}
+
+.all{
+	display: flex;
+/*	justify-content: space-between;*/
+
+}
+
+.line{
+	background-color: black;
+	width: 500px;
+	height: 3px;
+}
+
+.text{
+	margin-right: 20px;
+	text-align: center;
+}
+
+.row1{
+	width: 450px;
+
+}
+
+
+.row2{
+	width: 450px;
+
+}
+
+
+.row3{
+	width: 450px
+
+}
