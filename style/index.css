@@ -8,7 +8,7 @@ h3{
 
 
 
-.triangle-left {
+/*.triangle-left {
       width: 0;
       height: 0;
       margin-top: 2px;
@@ -16,13 +16,27 @@ h3{
       border-right: 10px solid black;
       border-bottom: 5px solid transparent;
     }
-
+*/
 
 
 .all{
 	display: flex;
 	justify-content: space-around;
+	margin-top: 100px;
+
+
 }
+
+#left{
+	margin-left: 50px;
+}
+
+#right{
+	margin-right: 50px;
+}
+/*.text{
+	width: px;
+}*/
 
 .row1 {
 	flex: 1;
@@ -47,6 +61,7 @@ h3{
 	flex: 1;
 	display: flex;
 	flex-direction: column;
+	margin-top: -84px;
 }
 
 .row5 {
@@ -59,6 +74,7 @@ h3{
 	flex: 1;
 	display: flex;
 	flex-direction: column;
+	margin-top: -42px;
 }
 
 .lines{
@@ -74,4 +90,9 @@ h3{
 
 .hana{
 	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: black;
 }
