@@ -1,5 +1,8 @@
 img{
 	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .all{
@@ -8,25 +11,33 @@ img{
 
 }
 
+.circle{
+	cursor: cell;
+}
+
 .line{
 	background-color: black;
 	width: 500px;
 	height: 3px;
+	margin-top: 45px;
 }
 
 .text{
 	margin-right: 20px;
+	margin-left: 20px;
 	text-align: center;
 }
 
 .row1{
 	width: 450px;
+	margin-right: 20px;
 
 }
 
 
 .row2{
 	width: 450px;
+	margin-right: 20px;
 
 }
 
@@ -36,7 +47,17 @@ img{
 
 }
 
-.pictures{
-	margin-left: auto;
-	margin-right: auto;
+#text{
+	margin-left: 30px;
 }
+
+
+
+#text :hover{
+	font-style: italic;
+}
+
+#text2 :hover{
+		font-style: italic;
+}
+

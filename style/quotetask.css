@@ -11,6 +11,9 @@ p {
 	text-decoration: none;
 }
 
+.mid:hover{
+	font-style: italic;
+}
 
 .all {
 	display: flex;
@@ -41,12 +44,14 @@ p {
 width: 500px;
 margin-left: 225px;
  border-bottom: 3px solid black;
+ padding: 10px;
  }
 
  a{
  	text-decoration: none;
  	color: black;
  }
+
 
  
  

@@ -22,13 +22,17 @@ img {
 }
 
 .picright {
-/*	width: 550px;
-	height: 757px;
-	margin-left: -500px;*/
 	width: 75vh;
 	height: 105vh;
-	/*margin-left: -75vh;*/
-	/*margin-right: 115vh;*/
 	margin-left: -5vh;
+	cursor: cell;
+
 }
 
+.arrowe{
+	cursor: e-resize;
+}
+
+.arroww{
+	cursor: w-resize;
+}
