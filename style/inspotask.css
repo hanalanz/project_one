@@ -11,6 +11,10 @@ img{
 
 }
 
+#midpic{
+	cursor: n-resize;
+}
+
 .circle{
 	cursor: cell;
 }
